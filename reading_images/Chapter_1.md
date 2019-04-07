@@ -1,7 +1,7 @@
-# Chapter 1
+# Chapter 1 #
 ---
 
-## Reading Images
+## Reading Images ##
 
 ---
 So, if you have mad it till here you must be really interested in learning how a computer sees images.Let's put on our coding caps and get started. 
