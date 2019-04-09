@@ -32,4 +32,9 @@ for each image row in input image:
 2. We don't need to know define custom kernels everytime let's  go through opencv_filters.py to learn more
 3. There are even more custom filters from ImageFilter module, I've demonstrated one of them in PIL_FILTERS.py
 - - - - 
+Still Confused?
 
+You can check out these links to learn more about kernel.
+1. [Image Kernels](http://setosa.io/ev/image-kernels/)
+2. [New Convolutional Kernels](https://arxiv.org/ftp/arxiv/papers/1806/1806.07996.pdf)
+3. [Convolution](https://www.tutorialspoint.com/dip/concept_of_convolution.htm)
