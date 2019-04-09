@@ -12,9 +12,7 @@ In image processing, a kernel, convolution matrix, or mask is a small matrix. It
 Convolution is the process of adding each element of the image to its local neighbors, weighted by the kernel.
 
 - - - -
-`code()`
-
-for each image row in input image:
+`for each image row in input image:
    for each pixel in image row:
 
       set accumulator to zero
@@ -27,7 +25,7 @@ for each image row in input image:
                add result to accumulator
             endif
 
-      set output image pixel to accumulator
+      set output image pixel to accumulator`
 
 - - - -
 1. Let us first explore the code from basic_convolutional.py to understand how kernels work.
