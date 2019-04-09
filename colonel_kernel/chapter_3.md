@@ -12,6 +12,8 @@ In image processing, a kernel, convolution matrix, or mask is a small matrix. It
 Convolution is the process of adding each element of the image to its local neighbors, weighted by the kernel.
 
 - - - -
+`code()`
+
 for each image row in input image:
    for each pixel in image row:
 
@@ -37,4 +39,4 @@ Still Confused?
 You can check out these links to learn more about kernel.
 1. [Image Kernels](http://setosa.io/ev/image-kernels/)
 2. [New Convolutional Kernels](https://arxiv.org/ftp/arxiv/papers/1806/1806.07996.pdf)
-3. [Convolution](https://www.tutorialspoint.com/dip/concept_of_convolution.htm)
+3. [Convolutions](https://www.tutorialspoint.com/dip/concept_of_convolution.htm)
