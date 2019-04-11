@@ -27,9 +27,9 @@ Convolution is the process of adding each element of the image to its local neig
 
 	      set output image pixel to accumulator
 - - - -
-1. Let us first explore the code from basic_convolutional.py to understand how kernels work.
-2. We don't need to know define custom kernels everytime let's  go through opencv_filters.py to learn more
-3. There are even more custom filters from ImageFilter module, I've demonstrated one of them in PIL_FILTERS.py
+1. Let us first explore the code from [basic_convolutional.py](https://github.com/ritwikraha/Introduction-to-Image-Processing/blob/master/colonel_kernel/basic_convolutional.py) to understand how kernels work.
+2. We don't need to know define custom kernels everytime let's  go through [opencv_filters.py](https://github.com/ritwikraha/Introduction-to-Image-Processing/blob/master/colonel_kernel/opencv_filters.py) to learn more
+3. There are even more custom filters from ImageFilter module, I've demonstrated one of them in [PIL_FILTERS.py](https://github.com/ritwikraha/Introduction-to-Image-Processing/blob/master/colonel_kernel/PIL_filters.py)
 - - - - 
 Still Confused?
 
