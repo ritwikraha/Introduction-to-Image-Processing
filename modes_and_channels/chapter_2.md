@@ -33,6 +33,10 @@ Some image files (notably, like PNG) contain more image information in an extra 
 
 - - - -
 
+#### Addional tool
+
+With the knowledge of channels one should use this to ones advantage. At times multi channels are not required and thus we `greyscale` the image. Similarly at times every pixel on the image are not desired while performing image processing task. Thus we usually mask those pixels and perform our processing on the `region of interest` as we like to call it. Let's see one such implementation of masking [here](https://github.com/ayulockin/Introduction-to-Image-Processing/blob/master/modes_and_channels/masking.py).
+
 If you are still confused, check out these four videos:
 
 [How jpeg works -Computerphile](https://www.youtube.com/watch?v=LFXN9PiOGtY&list=PLzH6n4zXuckoAod3z31QEST1ZaizBuNHh&index=1)
