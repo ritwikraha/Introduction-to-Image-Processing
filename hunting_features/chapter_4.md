@@ -14,6 +14,7 @@ We begin with the very basics of course:
 
 3. Those are all very good, but where are all the features? What will help us to detect objects and understand the features of images? Let's have a look at [finding derivatives](https://github.com/ritwikraha/Introduction-to-Image-Processing/blob/master/hunting_features/image_derivative.py) of an image.
 
+4. What if you are interested in finding the features. Or if you can achieve desired results without using all the pixels and corners are sufficient features. Let's have a look at [finding corners in a given image](https://github.com/ayulockin/Introduction-to-Image-Processing/blob/master/hunting_features/cornerDetection.py). 
 - - - -
 
 If you want to know more about image thresholding and edge detection, check out the following:
