@@ -8,6 +8,9 @@ So, if you have mad it till here you must be really interested in learning how a
 - - - -
 First things first, you'll need to read the image you have into your code as data. We are using Python here so I'll start with the assumption that you have python installed in your system.
 - - - -
+Many a times you will wish to use video feed directly on which you want to perform image processing. In those cases use [this](https://github.com/ayulockin/Introduction-to-Image-Processing/blob/master/reading_images/read_images_video.py).
+- - - - 
+
 The libraries that we use to read and process images are as follows:
 
 1. [Numpy](https://pypi.org/project/numpy/)
