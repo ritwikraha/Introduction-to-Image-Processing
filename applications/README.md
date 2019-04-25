@@ -1,1 +1,0 @@
-###### This can be used to detect blue color in the video frame. 
