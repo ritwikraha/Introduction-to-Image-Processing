@@ -4,7 +4,7 @@
 ## Reading Images ##
 
 - - - -
-So, if you have mad it till here you must be really interested in learning how a computer sees images.Let's put on our coding caps and get started. 
+So, if you have made it till here you must be really interested in learning how a computer sees images. Let's put on our coding caps and get started. 
 - - - -
 First things first, you'll need to read the image you have into your code as data. We are using Python here so I'll start with the assumption that you have python installed in your system.
 - - - -
