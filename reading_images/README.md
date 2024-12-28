@@ -16,8 +16,8 @@ The libraries that we use to read and process images are as follows:
 1. [Numpy](https://pypi.org/project/numpy/)
 2. [Matplotlib](https://pypi.org/project/matplotlib/)
 3. [OpenCV](https://pypi.org/project/opencv-python/)
-4. [Scikit-image](http://scikit-image.org/docs/dev/install.html)
-5. [ImageIO](https://imageio.readthedocs.io/en/stable/installation.html)
+4. [Scikit-image](https://pypi.org/project/scikit-image/)
+5. [ImageIO](https://pypi.org/project/imageio/)
 6. [Visvis](https://pypi.org/project/visvis/)
 - - - -
 I know, those were a lotta libraries, but hey it's just this once.
